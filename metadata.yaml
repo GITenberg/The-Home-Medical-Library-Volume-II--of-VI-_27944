@@ -1,0 +1,28 @@
+_repo: The-Home-Medical-Library-Volume-II--of-VI-_27944
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Winslow, Kenelm
+    birthdate: 1863
+    gutenberg_agent_id: '33031'
+    url: http://www.gutenberg.org/2009/agents/33031
+description: ''
+gutenberg_issued: '2009-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27944'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Medicine, Popular'
+- !lcsh 'Medicine'
+- !lcc 'RC'
+tableOfContents: "The eye and ear, the nose, throat, and lungs, skin diseases, tumors,\
+  \ rheumatism, headache, sexual hygiene, by K. Winslow\r\nInsanity, by A.W. Ferris."
+title: The Home Medical Library, Volume 2 (of 6)
+url: http://www.gutenberg.org/ebooks/27944
